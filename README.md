@@ -1,2 +1,2 @@
 # SQLInfrastructureTests
-Pesters tests of MSSQL Infrastructure
+Pester tests of MSSQL Infrastructure
